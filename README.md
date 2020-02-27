@@ -7,3 +7,9 @@ Aceite
 Queso
 Jamón
 
+
+## Frutas
+
+Naranja
+Pera
+Manzana
